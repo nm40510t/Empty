@@ -1,0 +1,1 @@
+All of my repositories were setting to "Private"
